@@ -1,0 +1,8 @@
+﻿# игнорировать файлы с расширением 
+.idea
+.gradle
+out
+build
+target
+
+
